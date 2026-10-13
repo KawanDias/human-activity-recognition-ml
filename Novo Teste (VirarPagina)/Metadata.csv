@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,moto g24,1789481836046,2026-09-15_14-17-16,America/Sao_Paulo,android,1.64,7e5cff4a-e321-482d-8db3-34c6bed3d698,Accelerometer|Annotation|TotalAcceleration|AccelerometerUncalibrated,10||10|10,false,34
